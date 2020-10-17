@@ -1,5 +1,5 @@
 # any_of
-Type traits for `any_of` and `any_but`
+Type traits for `any_of<T, Args...>` and `any_but<T, Args...>`
 
 ```cpp
 #include <iostream>
